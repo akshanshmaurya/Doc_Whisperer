@@ -21,7 +21,9 @@ reportlab
 st-annotated-text
 pytesseract
 pdf2image
-
+langchain 
+langchain_google_genai 
+google-generativeai
 
 #pip install streamlit python-dotenv streamlit_lottie requests PyPDF2 langchain langchain_groq faiss-cpu
 #pip install streamlit google-generativeai google-cloud-speech google-cloud-texttospeech audio-recorder-streamlit python-dotenv
