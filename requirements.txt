@@ -1,0 +1,28 @@
+streamlit
+python-dotenv
+langchain
+PyPDF2
+# chromadb
+faiss-cpu
+langchain_google_genai
+langchain-community
+langchain_core
+groq
+langchain-groq
+pypdf
+stqdm
+langchain-openai
+streamlit-option-menu
+streamlit-lottie
+firebase-admin
+pillow
+google-generativeai
+reportlab
+st-annotated-text
+
+
+
+#pip install streamlit python-dotenv streamlit_lottie requests PyPDF2 langchain langchain_groq faiss-cpu
+#pip install streamlit google-generativeai google-cloud-speech google-cloud-texttospeech audio-recorder-streamlit python-dotenv
+# pip install streamlit-option-menu streamlit-lottie
+# pip install sentence-transformers
