@@ -19,6 +19,7 @@ pillow
 google-generativeai
 reportlab
 st-annotated-text
+pytesseract
 
 
 
